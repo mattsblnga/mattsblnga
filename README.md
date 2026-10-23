@@ -1,4 +1,4 @@
-![sweat](cicero.jpeg)
+![sweat](qwots_p.png)
 
 <!--
 **mattsblnga/mattsblnga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
